@@ -79,14 +79,14 @@ firstTitle: I'm
 secondTitle: Reha,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: backend
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: ML enthusiast.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: I connect the front end to the backend to ensure a seamless functionality and user experience.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -100,10 +100,6 @@ spacing.fixed.px: 10
 title: Hire me
 link: mailto:reha8795@gmail.com
 
--- button.primary:
-title: Schedule a Meeting
-link: Not interested
-isNewTab: true
 
 -- end: ftd.row
 
